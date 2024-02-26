@@ -2,4 +2,6 @@
     <string name="app_name">Happy Birthday</string>
     <string name="happy_birthday_text">Happy Birthday Иван!</string>
     <string name="signature_text">From Анна</string>
+    <string name="signature_text1">From Анна</string>
+    <string name="happy_birthday_text1">Happy Birthday Иван!</string>
 </resources>
