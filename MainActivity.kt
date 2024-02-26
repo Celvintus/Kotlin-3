@@ -35,8 +35,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     GreetingImage(
-                        message = getString(R.string.happy_birthday_text1),
-                        from = getString(R.string.signature_text1)
+                        message = getString(R.string.happy_birthday_text),
+                        from = getString(R.string.signature_text)
                     )
                 }
             }
